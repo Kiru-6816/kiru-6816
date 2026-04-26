@@ -1,4 +1,4 @@
-# Hi, I'm David 👋
+# Hi, I'm Kirubel 👋
 
 🎓 Student from Ethiopia
 🤖 Interested in Artificial Intelligence & Software Development
@@ -40,7 +40,7 @@
 
 ## 🌍 Connect With Me
 
-* 📧 Email: [kirubelmelak16@gmail.com](mailto:your-email@example.com)
+* 📧 Email: [kirubelmelak16@gmail.com](mailto:kirubelmelak16@gmail.com)
 
 ---
 

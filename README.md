@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm David 👋
 
-<!--
-**Kiru-6816/kiru-6816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student from Ethiopia
+🤖 Interested in Artificial Intelligence & Software Development
+🚀 Building real-world projects and working toward research opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 💡 Passionate about intelligent systems and problem solving
+* 🧩 Strong foundation in programming and full-stack development
+* 🎯 Goal: Contribute to impactful AI projects and research
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+* Python
+* C# (Intermediate)
+* JavaScript
+* HTML & CSS
+
+### ⚙️ Tools & Frameworks
+
+* React
+* Git & GitHub
+
+---
+
+## 📌 Current Focus
+
+* Exploring Machine Learning and AI concepts
+* Building full-stack web applications
+* Strengthening problem-solving and system design skills
+
+---
+
+## 🌍 Connect With Me
+
+* 📧 Email: [kirubelmelak16@gmail.com](mailto:your-email@example.com)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning ideas into real, usable applications 🚀
